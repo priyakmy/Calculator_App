@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="input">Input</string>
+
     <style name="Button_Style" parent="Widget.AppCompat.Button.Borderless">
     <item name="android:textSize">24sp</item>
     <item name="android:textColor">@color/black</item>
